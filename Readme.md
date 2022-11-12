@@ -1,5 +1,7 @@
 # Groot translator
-Translate english into Groot language.
+Groot is a fictional character appearing in American comic books published by Marvel Comics.
+Here you can translate english to "Groot language" 
+live demo : https://imgroottalk.netlify.app/
 
 # Built with
 -HTML
